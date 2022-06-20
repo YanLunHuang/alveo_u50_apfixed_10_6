@@ -1,0 +1,18 @@
+input set0,       begin:  6:43:2:923:565:162
+input set0,        done:  6:43:42:90:495:801
+input set0,        end:   6:43:42:90:507:714
+Predictions:  83.2436
+Quantized predictions:  0
+
+input set1,       begin:  6:43:42:93:391:27
+input set1,        done:  6:44:15:812:595:251
+input set1,        end:   6:44:15:812:596:874
+Predictions:  88.3869
+Quantized predictions:  0
+
+input set2,       begin:  6:44:15:815:768:825
+input set2,        done:  6:44:49:560:124:249
+input set2,        end:   6:44:49:560:125:832
+Predictions:  95.5094
+Quantized predictions:  0
+
