@@ -13,8 +13,8 @@
 #define DATA_SIZE_IN  N_INPUT_3_1
 #define DATA_SIZE_OUT  N_LAYER_53
 
-typedef ap_fixed<32,16> data_t;
-typedef ap_fixed<32,16> bigdata_t;
+typedef ap_fixed<10,6> data_t;
+typedef ap_fixed<10,6> bigdata_t;
 
 #define NW1 73728
 #define NW2 147456
