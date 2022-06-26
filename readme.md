@@ -1,6 +1,6 @@
 # hls4ml on Alveo U50 (HLS C/C++ Kernel)
 ## Vitis version 2019.2
-## Compile SDAccel project
+## Compile project
 ```bash
 make check TARGET=sw_emu DEVICE=xilinx_u50_xdma_201920_1 all  # software emulation
 make check TARGET=hw_emu DEVICE=xilinx_u50_xdma_201920_1 all  # hardware emulation
